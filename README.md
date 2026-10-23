@@ -92,4 +92,4 @@ I plan to document the resulting topology, configuration decisions, tests, failu
 
 ## Project status
 
-Daedalus is an actively maintained homelab that I continue to expand as I develop my skills in Linux administration, networking, and infrastructure engineering..
+Daedalus is an actively maintained homelab that I continue to expand as I develop my skills in Linux administration, networking, and infrastructure engineering.
