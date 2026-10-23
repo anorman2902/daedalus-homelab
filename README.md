@@ -92,8 +92,4 @@ I plan to document the resulting topology, configuration decisions, tests, failu
 
 ## Project status
 
-**Active, ongoing personal lab.** The existing server and services are operational; the managed networking lab above is a proposed next phase, **not equipment I already own or projects I've completed**.
-
-## Security and publishing notes
-
-This repository is intentionally documentation-focused. It does not include real credentials, API keys, passwords, VPN configuration files, sensitive logs, internal IP addressing, externally reachable hostnames, or unredacted screenshots. Configuration examples may be added later after review and sanitization.
+Daedalus is an actively maintained homelab that I continue to expand as I develop my skills in Linux administration, networking, and infrastructure engineering..
